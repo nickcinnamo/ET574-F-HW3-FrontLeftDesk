@@ -1,7 +1,7 @@
 ID,TYPE,COMMIT #, DESCRIPTION,REPORTER,CREATED
 1, task, a83ef9b, Initial commit, Nick, 26 Sep
 2,task,e75723c, Issue tracker, Nick, 26 Sep
-3, task, , Task A, Nick, 26 Sep
+3, task,435bffe, Task A, Nick, 26 Sep
 4,task, ,Task B, Nick, 26 Sep
 5, task, ,Task C, Nick, 26 Sep
 6, task, ,Task D, Nick, 26 Sep
