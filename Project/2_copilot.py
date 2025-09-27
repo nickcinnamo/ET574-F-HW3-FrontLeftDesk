@@ -143,4 +143,59 @@ if gpas[8] >= 3.5:
 if gpas[9] >= 3.5:
     print(students[9])
 
+# Lists to store student names and GPAs
+students = ["Jon", "Kim", "Lee", "Sara", "Miko", "Lin", "Toby", "Ben", "Mark", "Xia"]
+gpas = [3.25, 2.25, 2.30, 4.00, 1.90, 2.10, 2.89, 2.75, 2.34, 3.53]
+
+# Calculate average GPA
+total = gpas[0] + gpas[1] + gpas[2] + gpas[3] + gpas[4] + gpas[5] + gpas[6] + gpas[7] + gpas[8] + gpas[9]
+average = total / 10
+
+print("Average GPA:", average)
+
+print("\nStudents with above average GPA:")
+# Check and print students with GPA above average
+if gpas[0] > average:
+    print(students[0], "-", gpas[0])
+if gpas[1] > average:
+    print(students[1], "-", gpas[1])
+if gpas[2] > average:
+    print(students[2], "-", gpas[2])
+if gpas[3] > average:
+    print(students[3], "-", gpas[3])
+if gpas[4] > average:
+    print(students[4], "-", gpas[4])
+if gpas[5] > average:
+    print(students[5], "-", gpas[5])
+if gpas[6] > average:
+    print(students[6], "-", gpas[6])
+if gpas[7] > average:
+    print(students[7], "-", gpas[7])
+if gpas[8] > average:
+    print(students[8], "-", gpas[8])
+if gpas[9] > average:
+    print(students[9], "-", gpas[9])
+
+print("\nStudents predicted to earn a scholarship (GPA >= 3.5):")
+# Scholarship prediction: GPA >= 3.5
+if gpas[0] >= 3.5:
+    print(students[0])
+if gpas[1] >= 3.5:
+    print(students[1])
+if gpas[2] >= 3.5:
+    print(students[2])
+if gpas[3] >= 3.5:
+    print(students[3])
+if gpas[4] >= 3.5:
+    print(students[4])
+if gpas[5] >= 3.5:
+    print(students[5])
+if gpas[6] >= 3.5:
+    print(students[6])
+if gpas[7] >= 3.5:
+    print(students[7])
+if gpas[8] >= 3.5:
+    print(students[8])
+if gpas[9] >= 3.5:
+    print(students[9])
 
