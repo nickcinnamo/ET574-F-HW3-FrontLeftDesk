@@ -4,11 +4,11 @@ ID,TYPE,COMMIT #, DESCRIPTION,REPORTER,CREATED
 3, task,435bffe, Task A, Nick, 26 Sep
 4,task,00dd7a4,Task B, Nick, 26 Sep
 5, task,31dc57e,Task C, Nick, 26 Sep
-6, task, ,Task D, Nick, 26 Sep
-7, task, , Task E, Aine, 26 Sep
-8,task, ,Task F, Aine, 26 Sep
-9, task, ,Task G, Aine, 26 Sep
-10, task, ,Task H, Aine, 26 Sep
-11, task, , Task I, Tashan, 26 Sep
-12,task, ,Task J, Tashan, 26 Sep
-13, task, ,Task K, Tashan, 26 Sep
+6, task,aa72fe7,Task D, Nick, 26 Sep
+7, task, d782e95, Task E, Aine, 27 Sep
+8,task,bfa929d ,Task F, Aine, 27 Sep
+9, task, ecf7c13,Task G, Aine, 27 Sep
+10, task,b65518a,Task H, Aine, 27 Sep
+11, task,3200c5e, Task I, Tashan, 27 Sep
+12,task,1c955e1,Task J, Tashan, 27 Sep
+13, task,bef4bb2,Task K, Tashan, 27 Sep
